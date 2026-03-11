@@ -3,7 +3,10 @@
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Soy Roberto Heredia </h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
+<p align="center" width="150px"> 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
+
+Apasionado por la programación y el aprendizaje constante. Me gusta desarrollar proyectos, mejorar mis habilidades como programador y seguir creciendo dentro del mundo del desarrollo de software.
+.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
