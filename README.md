@@ -18,7 +18,7 @@ Apasionado por la programación y el aprendizaje constante. Me gusta desarrollar
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### :link: &nbsp;Connect with me
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
+![Discord]([https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white](https://discord.com/channels/@me))
 
 
 
